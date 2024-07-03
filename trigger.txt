@@ -1,1 +1,1 @@
-zlmediakit/zlmediakit:master registry.cn-qingdao.aliyuncs.com/xfeng/zlmediakit:master
+zlmediakit/zlmediakit:master registry.cn-shanghai.aliyuncs.com/xfeng/zlmediakit:master
