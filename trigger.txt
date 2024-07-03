@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+zlmediakit/zlmediakit:master registry.cn-qingdao.aliyuncs.com/xfeng/zlmediakit/zlmediakit:master
